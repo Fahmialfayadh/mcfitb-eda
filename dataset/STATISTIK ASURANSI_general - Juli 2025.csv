@@ -1,0 +1,73 @@
+1,1,1/31/2025,2/28/2025,3/31/2025,4/30/2025,5/31/2025,6/30/2025,7/31/2025,
+,,,,,,,,,Dalam Jutaan Rupiah / In Millions Rupiah
+Laporan Posisi Keuangan / Statement Of Financial Position,,,,,,,,,
+Asuransi Umum Konvensional/Conventional General Insurance ,,,,,,,,,
+,#VALUE!,"Januari/
+January","Februari/
+February","Maret/
+March","April/
+April","Mei/
+May","Juni/ 
+June","Juli/ 
+July",Account
+1,Deposito Berjangka," 22,628,989 "," 23,478,991 "," 24,088,420 "," 24,188,116 "," 24,512,702 "," 24,665,879 "," 25,327,786 ", Time Deposit  
+2,Sertifikat Deposito, -   ," 80,404 ", -   , -   , -   , -   , -   , Certificate Of Deposit 
+3,Saham ," 4,912,733 "," 4,524,374 "," 4,634,382 "," 4,709,842 "," 4,806,993 "," 4,548,132 "," 4,736,353 ", Stocks 
+4,Obligasi Korporasi," 12,170,904 "," 12,272,802 "," 12,782,765 "," 12,905,639 "," 13,007,779 "," 13,285,265 "," 13,462,119 ", Bonds 
+5,MTN," 102,725 "," 102,725 "," 102,725 "," 102,725 "," 102,725 "," 102,725 "," 106,055 ", Medium Term Note 
+6,Surat Berharga yang Diterbitkan oleh Negara RI ," 42,460,266 "," 43,328,134 "," 43,846,124 "," 44,413,686 "," 44,920,873 "," 44,515,735 "," 45,728,663 ", Marketable Securities Issued By Republic Indonesia 
+7,Surat Berharga yang Diterbitkan oleh Negara Selain Negara RI ," 81,667 "," 82,683 "," 83,471 "," 84,320 "," 81,560 "," 81,489 "," 82,025 ",    Marketable Securities Issued By other than Republic Indonesia 
+8,Surat Berharga yang Diterbitkan oleh Bank Indonesia," 2,732,826 "," 2,805,275 "," 2,915,085 "," 2,696,159 "," 2,601,420 "," 2,422,743 "," 1,987,780 ", Marketable Securities Issued By Bank Indonesia 
+9,Surat Berharga yang Diterbitkan oleh Lembaga Multinasional, -   , -   , -   , -   , -   , -   , -   , Marketable Securities Issued By Multinational Institution 
+10,Reksa Dana," 22,329,770 "," 22,039,157 "," 21,572,494 "," 21,938,602 "," 21,801,615 "," 21,880,706 "," 22,688,500 ", Mutual Fund 
+11,Efek Beragun Aset ," 42,788 "," 42,878 "," 41,403 "," 41,578 "," 41,670 "," 39,797 "," 40,101 ", Collective Investment Contract-Assets Backed Securities 
+12,Dana Investasi Real Estat, -   , -   , -   , -   , -   , -   , -   , Real Estate Investment Fund 
+13,REPO, -   , -   , -   , -   , -   , -   , -   , Repurchase Order 
+14,Penyertaan Langsung," 11,965,873 "," 12,106,087 "," 11,903,266 "," 11,870,293 "," 11,890,961 "," 12,060,413 "," 12,045,929 ", Direct Investment 
+15,"Tanah, Bangunan dengan Hak Strata, atau Tanah dengan Bangunan, untuk Investasi"," 1,138,730 "," 1,138,361 "," 1,172,426 "," 1,172,474 "," 1,171,949 "," 1,179,696 "," 1,129,700 ", Buildings With Strata Title or Real Estate For Investment 
+16,Pembiayaan Melalui Kerjasama dengan Pihak Lain (Executing), -   , -   , -   , -   , -   , -   , -   , Executing 
+17,Emas Murni, -   , -   , -   , -   , -   , -   , -   , Gold 
+18,Pinjaman yang Dijamin dengan Hak Tanggungan," 30,921 "," 30,494 "," 28,546 "," 28,407 "," 26,557 "," 27,544 "," 24,390 ", Mortgage 
+19,Pinjaman Polis*, -   , -   , -   , -   , -   , -   , -   , Policy Loan 
+20,Obligasi Daerah**, -   , -   , -   , -   , -   , -   , -   ,
+21,Dana Investasi Infrastruktur Berbentuk Kontrak Investasi Kolektif **, -   , -   , -   , -   , -   , -   , -   ,
+22,Investasi Lain," 214,040 "," 214,040 "," 216,089 "," 216,217 "," 216,328 "," 216,263 "," 216,428 ", Other Investment 
+23,Jumlah Investasi," 120,812,231 "," 122,246,405 "," 123,387,197 "," 124,368,057 "," 125,183,131 "," 125,026,387 "," 127,575,829 ", Total Investment 
+24,Kas dan Bank," 7,982,732 "," 7,754,014 "," 8,088,992 "," 8,017,122 "," 7,799,918 "," 9,030,471 "," 8,552,242 ", Cash and Bank 
+25,Tagihan Premi Penutupan Langsung," 27,740,756 "," 26,818,569 "," 26,384,882 "," 27,017,883 "," 24,587,424 "," 25,124,780 "," 24,440,371 ", Premium Receivable 
+26,Tagihan Premi Reasuransi," 2,803,873 "," 2,953,284 "," 2,949,939 "," 3,094,560 "," 2,123,108 "," 2,303,184 "," 2,512,131 ", Reinsurance Premium Receivable 
+27,Aset Reasuransi," 57,389,039 "," 60,097,595 "," 60,639,927 "," 64,715,872 "," 62,349,334 "," 62,653,709 "," 62,176,042 ", Reinsurance Asset 
+28,Tagihan Klaim Koasuransi," 975,596 "," 901,865 "," 872,597 "," 807,344 "," 750,427 "," 642,688 "," 610,842 ", Coinsurance Claim Receivable 
+29,Tagihan Klaim Reasuransi," 6,512,075 "," 6,685,716 "," 6,415,805 "," 6,566,008 "," 6,887,502 "," 6,897,868 "," 6,976,024 ", Reinsurance Claim Receivable 
+30,Tagihan Investasi," 68,510 "," 67,356 "," 82,178 "," 66,741 "," 142,963 "," 66,235 "," 66,235 ", Investment Receivable 
+31,Tagihan Hasil Investasi," 880,989 "," 834,368 "," 822,207 "," 760,914 "," 765,814 "," 841,297 "," 964,638 ", Investment Yield Receivable 
+32,Bangunan dengan Hak Strata atau Tanah dengan Bangunan untuk Dipakai Sendiri," 4,227,543 "," 4,231,157 "," 4,232,562 "," 4,250,932 "," 4,272,235 "," 4,262,793 "," 4,290,807 ", Property 
+33,Biaya Akuisisi yang Ditangguhkan," 541,728 "," 533,856 "," 539,156 "," 531,271 "," 536,938 "," 542,345 "," 546,190 ", Deferred Acquisition Cost 
+34,Aset Tetap Lain," 1,340,157 "," 1,288,279 "," 1,279,267 "," 1,281,043 "," 1,251,379 "," 1,236,124 "," 1,221,884 ", Other Fixed Assets 
+35,Aset Lain," 18,559,751 "," 18,559,904 "," 18,326,163 "," 18,527,845 "," 18,629,869 "," 18,602,902 "," 19,766,428 ", Other Assets 
+36,Jumlah Bukan Investasi," 129,022,750 "," 130,725,964 "," 130,633,676 "," 135,637,534 "," 130,096,909 "," 132,204,396 "," 132,123,834 ", Total Non Investment 
+37,JUMLAH ASET," 249,834,981 "," 252,972,369 "," 254,020,874 "," 260,005,591 "," 255,280,040 "," 257,230,783 "," 259,699,663 ", Total Assets 
+38,Utang Klaim," 2,625,634 "," 2,547,385 "," 2,621,318 "," 2,519,246 "," 2,691,363 "," 2,409,706 "," 2,446,091 ", Claims Payable 
+39,Utang Koasuransi," 1,355,040 "," 1,251,293 "," 1,170,143 "," 1,395,138 "," 1,229,741 "," 1,305,341 "," 1,371,457 ", Coinsurance Payable 
+40,Utang Reasuransi," 15,279,888 "," 15,850,759 "," 15,450,001 "," 16,370,900 "," 14,623,255 "," 14,854,971 "," 15,494,907 ", Reinsurance Payable 
+41,Utang Komisi," 2,434,011 "," 2,398,879 "," 2,447,567 "," 2,461,881 "," 2,445,810 "," 2,427,721 "," 2,427,259 ", Commission Payable 
+42,Utang Pajak," 1,470,083 "," 1,369,513 "," 1,566,318 "," 895,061 "," 1,006,969 "," 967,408 "," 1,093,667 ", Tax Payable 
+43,Biaya yang Masih Harus Dibayar ," 2,961,535 "," 3,143,334 "," 2,977,744 "," 3,006,310 "," 2,862,312 "," 2,958,030 "," 3,092,880 ", Accrued Expense 
+44,Utang Lain," 15,722,384 "," 15,515,385 "," 16,402,112 "," 17,087,556 "," 16,131,122 "," 16,142,483 "," 16,290,082 ", Others Payable 
+45,Jumlah Utang ," 41,848,576 "," 42,076,549 "," 42,635,203 "," 43,736,092 "," 40,990,574 "," 41,065,660 "," 42,216,343 ", Total Payable 
+46,Cadangan Premi," 43,587,886 "," 43,831,774 "," 43,595,567 "," 41,735,648 "," 41,897,053 "," 41,971,785 "," 42,609,588 ", Premium Reserve 
+47,Cadangan Atas Premi Yang Belum Merupakan Pendapatan," 34,284,738 "," 34,732,100 "," 34,909,079 "," 37,341,934 "," 35,319,480 "," 35,717,739 "," 35,418,560 ", Unearned Premium Reserve 
+48,Cadangan Klaim ," 52,832,993 "," 54,485,013 "," 54,906,391 "," 56,908,325 "," 57,076,626 "," 57,340,849 "," 56,843,201 ", Claim Reserve 
+49,Cadangan atas Risiko Bencana (Catastrophic)," 92,080 "," 115,216 "," 115,905 "," 118,380 "," 119,419 "," 110,728 "," 111,845 ", Catastrophic Reserve 
+50,Jumlah Cadangan Teknis," 130,797,697 "," 133,164,103 "," 133,526,942 "," 136,104,287 "," 134,412,578 "," 135,141,101 "," 134,983,194 ", Total Technical Reserve 
+51,Jumlah Liabilitas," 172,646,274 "," 175,240,652 "," 176,162,146 "," 179,840,379 "," 175,403,152 "," 176,206,761 "," 177,199,538 ", Total Liabilities 
+52,Pinjaman Subordinasi," 1,184,120 "," 1,185,830 "," 1,186,712 "," 1,153,068 "," 1,151,646 "," 1,146,996 "," 1,149,882 ", Subordinate Loan 
+53,Modal Disetor ," 35,945,973 "," 35,995,973 "," 35,995,973 "," 36,020,973 "," 36,020,973 "," 36,020,973 "," 36,040,973 ", Paid in Capital 
+54,Agio Saham," 2,056,724 "," 2,056,724 "," 2,056,714 "," 2,055,715 "," 2,055,715 "," 2,075,715 "," 2,049,856 ", Premium Stock 
+55,Saldo Laba," 49,288,965 "," 49,890,805 "," 50,165,223 "," 52,021,051 "," 51,455,355 "," 52,406,778 "," 36,228,506 ", Retained Earning 
+56,Komponen Ekuitas Lainnya," (11,287,075)"," (11,397,615)"," (11,545,893)"," (11,085,595)"," (10,806,802)"," (10,626,440)"," 7,030,909 ", Other Equity Components 
+57,Jumlah Ekuitas," 76,004,587 "," 76,545,887 "," 76,672,017 "," 79,012,144 "," 78,725,242 "," 79,877,026 "," 81,350,243 ", Total Equities 
+58,JUMLAH LIABILITAS DAN EKUITAS ," 249,834,981 "," 252,972,369 "," 254,020,874 "," 260,005,591 "," 255,280,040 "," 257,230,783 "," 259,699,663 ", Total Liabilities and Equities 
+,,,,,,,,,
+,* Pinjaman Polis dikategorikan menjadi instrumen investasi sejak Agustus 2017 berdasarkan POJK nomor 71/POJK.05/2016 tentang Kesehatan Keuangan Perusahaan Asuransi dan Perusahaan Reasuransi,,,,,,,,
+,"** Penambahan jenis investasi ""Obligasi Daerah"" dan ""Dana Investasi Infrastruktur Berbentuk Kontrak Investasi Kolektif"" berdasarkan POJK nomor 27/POJK.05/2018",,,,,,,,
