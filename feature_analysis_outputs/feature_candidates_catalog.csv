@@ -1,0 +1,8 @@
+feature,level,source,note
+repeat_intensity,policy,policy_repeat_country_features.csv,Proporsi penyakit pada polis yang sudah repeat
+avg_repeat_country_risk_score,policy,policy_repeat_country_features.csv,Skor gabungan frekuensi repeat x dominasi negara x multiplier biaya
+chronic_avg_interval_days,policy,policy_repeat_country_features.csv,Rata-rata jeda antar klaim penyakit chronic
+cost_multiplier_vs_id,disease-country,disease_country_cost_profile.csv,Rasio median biaya disease-country vs Indonesia
+repeat_claim_share_hist_lag1,monthly,monthly_repeat_country_signals.csv,Share klaim bulan lalu yang berasal dari pair polis-penyakit repeat
+repeat_country_cost_idx_lag1,monthly,monthly_repeat_country_signals.csv,Indeks biaya negara untuk klaim repeat bulan lalu
+chronic_claim_share_lag1,monthly,monthly_repeat_country_signals.csv,Share klaim penyakit chronic bulan lalu
